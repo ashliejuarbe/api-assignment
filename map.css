@@ -1,0 +1,19 @@
+#map {
+	height: 350px;
+	width: 600px;
+	align-content: center;
+}
+
+h1 {
+	color: navy;
+	font-size: 35px;
+	text-decoration: underline;
+	align-content: center;
+}
+
+h3 {
+	color: lightblue;
+	font-size: 20px;
+	text-decoration: none;
+	align-content: center;
+}
